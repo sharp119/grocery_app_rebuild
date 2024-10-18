@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290572050132",
+    "project_id": "smart-grocery88",
+    "storage_bucket": "smart-grocery88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290572050132:android:c9beffc52176936e6b6541",
+        "android_client_info": {
+          "package_name": "com.example.my_food_tracking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNIfU1pm7LZchZs0Mgnv75lvruhajmt8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
